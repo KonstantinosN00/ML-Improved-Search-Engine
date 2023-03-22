@@ -1,5 +1,5 @@
 # ML-Improved-Search-Engine
-A system application that customizes the elasticsearch search engine using Machine Learning methods for a book dataset\
+A system application that customizes the elasticsearch search engine using Machine Learning methods for a book dataset
 
 
 #### Data (https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset)
